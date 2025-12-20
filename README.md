@@ -1,9 +1,13 @@
-# 👋 Hi, I'm **Lin Shangchun** !
+# 👋 Hi, I'm **Shangchun Lin** !
 
 Welcome to my GitHub profile! I'm a software developer who loves working on open-source projects, building innovative solutions, and learning new technologies. Below you'll find an overview of my work and contributions.
 
 ## 📌 Pinned Repositories
 Here are some of my most important repositories that I want to highlight:
+
+- **[host-navs](https://github.com/linshangchun/host-navs)**  
+  _Host Navs 站导：一个简洁高效的网站链接导航工具站._  
+  ![Stars](https://img.shields.io/github/stars/linshangchun/host-navs?style=social) ![Forks](https://img.shields.io/github/forks/linshangchun/host-navs?style=social)
 
 - **[okayjs](https://github.com/linshangchun/okayjs)**  
   _Okayjs is a very okay JavaScript toolkit._  
@@ -29,18 +33,18 @@ Here's a summary of my activity on GitHub:
 ## 📚 Languages & Technologies
 Some of the programming languages and technologies I use and enjoy:
 
-- 🌐 HTML, CSS, & JavaScript
+- 🌐 HTML, CSS
 - 💻 JavaScript (Node.js, React, Vue, etc.)
 - ⚙️ Go
 - 🐍 Python
-- ☁️ Docker, Kubernetes
+- ☁️ Docker
+- etc...
 
 ## 📫 How to reach me:
-You can find me at:
-- [email]
+You can issue on this repository
 
 ---
+🔭 I’m currently working on [host-navs](https://github.com/linshangchun/host-navs).  
 🔭 I’m currently working on [okayjs](https://github.com/linshangchun/okayjs).  
 📚 I’m learning more about FE & AI & etc.  
-💬 Ask me about Go, JavaScript, or anything in the tech world!
 
